@@ -23,13 +23,13 @@ Confirm.java      → Checks if a date is Friday the 13th
 
 ## Compile All Java Files
 
-```javac *.java
-```
+```javac *.java ```
+
 
 ## Run The Main Program
 
-```java Main
-```
+```java Main```
+
 
 Follow the on-screen menu to choose any of the three utilities.
 
